@@ -3,7 +3,7 @@
 include_once "model/Pessoa.php";
 include_once "conexao.php";
 session_start();
-$conexao = new Conexao();
+
 class PessoaDAO {
 
     
